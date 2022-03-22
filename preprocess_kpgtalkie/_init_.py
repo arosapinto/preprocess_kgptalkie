@@ -66,4 +66,4 @@ def remove_rarewords(x, n=20):
 	return utils._remove_rarewords(x, n=20)
 
 def spelling_correction(x):
-	return utils._spelling_correction(x):
+	return utils._spelling_correction(x)
